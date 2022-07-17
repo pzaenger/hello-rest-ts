@@ -1,2 +1,2 @@
-# hello-rest-ts
+# hello-rest-express-ts
 Simple REST-API written in TypeScript
